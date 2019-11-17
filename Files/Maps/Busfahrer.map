@@ -1,0 +1,19 @@
+<map edf:definitions="editor_main">
+    <object id="object (bustopm) (1)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2258.6001" posY="123.1" posZ="35.6" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (bustopm) (2)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2266.3999" posY="-173.10001" posZ="35.6" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (bustopm) (3)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2062.1001" posY="-76.5" posZ="35.6" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bustopm) (4)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-1995.4" posY="315.39999" posZ="35.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bustopm) (5)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-1995.5" posY="875.09998" posZ="45.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bustopm) (6)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2117.5" posY="1085.8" posZ="56" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bustopm) (7)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2395.2" posY="789.5" posZ="35.5" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (bustopm) (8)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2581.7" posY="574.29999" posZ="14.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bustopm) (9)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2721.7" posY="421.60001" posZ="4.6" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bustopm) (10)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2711.8999" posY="246.89999" posZ="4.6" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (bustopm) (11)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2711.8999" posY="-195.2" posZ="4.6" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (bustopm) (12)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2415.2" posY="-147.7" posZ="35.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bustopm) (13)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2409.8999" posY="243.5" posZ="35.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bustopm) (14)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2300.8" posY="401.89999" posZ="35.5" rotX="0" rotY="0" rotZ="225"></object>
+    <object id="object (bustopm) (15)" breakable="false" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="-2258.3" posY="185.5" posZ="35.6" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (Vgs_guardhouse01) (1)" breakable="false" interior="0" alpha="255" model="8168" doublesided="false" scale="1" dimension="0" posX="-2265.8" posY="180.39999" posZ="36.1" rotX="0" rotY="0" rotZ="17"></object>
+    <object id="object (lhouse_barrier3) (1)" breakable="false" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="-2262.3" posY="174.60001" posZ="34.3" rotX="0" rotY="0" rotZ="90"></object>
+</map>

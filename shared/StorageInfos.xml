@@ -1,0 +1,15 @@
+<storage>
+	<options>
+		<storage type="1" 		name="Xtreme Inventar" 		size="40" 			useage="true" aka="OwnStorage;1"/>
+		<storage type="2" 		name="Schnellselektion" 	size="10" 			useage="true" aka="OwnStorage;2"/>
+		<storage type="3" 		name="bank storage" 		size="100" 			useage="false"/>
+		<storage type="4" 		name="mail storage" 		size="unlimited"	useage="false"/>
+		<storage type="5" 		name="Fraktionsspeicher" 	requiredRank = "3" size="70" 			useage="false"/>
+		<storage type="6" 		name="gang storage" 		size="100"			useage="false"/>
+		<storage type="7" 		name="business storage" 	size="100" 			useage="false"/>
+		<storage type="8"		name="Kofferraum" 			size="21"			useage="false" aka="VehicleStorage;1"/>
+		<storage type="9"		name="Waffen" 				size="3"			useage="false" aka="OwnStorage;3"/>
+		<storage type="1000" 	name="junk storage" 		size="unlimited" 	useage="false"/>
+		<storage type="5000" 	name="generic storage" 		size="unlimited" 	useage="false"/>
+	</options>
+</storage>

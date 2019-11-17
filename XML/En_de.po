@@ -1,0 +1,22 @@
+# PO-File for the Casino System
+# Thanks to Strobe!
+msgid ""
+msgstr ""
+
+msgid "Einsatz"
+msgstr "Einsatz"
+
+msgid "Maximaler Einsatz"
+msgstr "Maximaler Einsatz"
+
+msgid "Gesamteinsatz"
+msgstr "Gesamteinsatz"
+
+msgid "Auszahlung"
+msgstr "Auszahlung"
+
+msgid "Verloren!"
+msgstr "Verloren!"
+
+msgid "Gewonnen!"
+msgstr "Gewonnen!"

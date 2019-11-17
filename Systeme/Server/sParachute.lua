@@ -1,0 +1,5 @@
+addEvent("setPlayerParachute", true)
+addEventHandler("setPlayerParachute", root, function()
+    local item = itemmanager:add(Weapon_To_Database[46], client:getId(), client:getId(), client:getId(), 46, 0, 0, 100, 0, "none", client.m_Storages[1])
+    client.m_Storages[1]:addItem(item)			
+end)

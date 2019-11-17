@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (Gen_doorINT04) (1)" radius="3.4605007" interior="0" model="1502" lodModel="0" posX="345.80722" posY="157.14621" posZ="1014.5131" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (vault_door) (2)" breakable="true" interior="3" alpha="255" model="14576" doublesided="false" scale="1" dimension="0" posX="346.9245" posY="145.2529" posZ="988.89392" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_vaultDoor) (2)" breakable="true" interior="3" alpha="255" model="2634" doublesided="false" scale="1" dimension="0" posX="350.6225" posY="130.6088" posZ="994.75812" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (kmb_shutter) (1)" breakable="true" interior="3" alpha="255" model="3055" doublesided="false" scale="1" dimension="0" posX="352.62311" posY="126.9387" posZ="988.30188" rotX="0" rotY="90" rotZ="90"></object>
+</map>
